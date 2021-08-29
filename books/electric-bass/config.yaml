@@ -1,0 +1,8 @@
+title: "エレキベースの設計論"
+summary: "エレキベースを設計するために必要な理論について学習する"
+topics: ["acoustics", "simulation"]
+published: false
+price: 3000
+chapters:
+  - introduction
+  - neck
